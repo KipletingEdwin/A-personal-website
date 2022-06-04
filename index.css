@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+header{
+    height: 100px;
+   
+    }
+header ul{
+    list-style: none;
+    float: right;
+}
+.logo img{
+    height: auto;
+    width: 70px;
+}
+header ul li{
+    display: inline-block;
+}
+header ul a{
+    font-family: 'Playfair+Display',sans-serif;
+    text-decoration: none;
+    color:black;
+    padding: 5px 20px;
+    border: 1px solid black;
+}
+header ul a:hover{
+    background-color: rgb(180, 77, 180);  
+}
+.content{
+    height: 350px;
+    display: flex;
+}
+.text{
+    width: 50%;
+    padding: 20px;
+}
+.text h1{
+    font-family: "Cookie",sans-serif;
+    font-weight: 300;
+}
+.text button{
+    padding: 5px 20px;
+    border-radius: 8px;
+}
+.btn{
+    color: white;
+    background-color: blue; 
+}
+.bt{
+    color: blue;
+}
+.pic img{
+    height: 350px;
+}
+#social{
+    background-color: orange;
+    height: 50px;
+    text-align: center;
+    padding: 20px;
+}

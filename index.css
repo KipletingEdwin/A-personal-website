@@ -1,5 +1,5 @@
 *{
-    margin:  NUMBER0px;
+    margin:  0px;
     padding: 0px;
     background-color: rgba(122, 79, 48, 0.822);
 }
@@ -20,7 +20,7 @@ header ul li{
    
 }
 header ul a{
-    font-family: 'Playfair+Display',sans-serif;
+    font-family: "Playfair+Display",sans-serif;
     text-decoration: none;
     color:white;
     padding: 5px 20px;
@@ -40,6 +40,9 @@ header ul a:hover{
 .text h1{
     font-family: "Cookie",sans-serif;
     font-weight: 300;
+}
+.text h2{
+    font-family: "Cinzel",sans-serif;
 }
 .text button{
     padding: 5px 20px;

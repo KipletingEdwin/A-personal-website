@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: green;
+    height: 80px;
+    padding: 20px;
+}
+.me{
+    background-color: orangered;
+    height: 300px;
+    padding: 20px;
+}

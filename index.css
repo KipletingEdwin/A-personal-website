@@ -17,11 +17,12 @@ header ul{
 }
 header ul li{
     display: inline-block;
+   
 }
 header ul a{
     font-family: 'Playfair+Display',sans-serif;
     text-decoration: none;
-    color:black;
+    color:white;
     padding: 5px 20px;
     border: 1px solid black;
 }

@@ -1,8 +1,33 @@
 *{
     padding: 0px;
     margin: 0px;
+    background-color: rgba(122, 79, 48, 0.822);;
 }
 header h1{
     text-align: center;
     padding-top: 50px;
+}
+.con{
+    height: 250px;
+    display: flex;
+    margin-top: 20px;
+    text-align: center;
+}
+.con h2{
+    padding-top: 30px;
+}
+.address{
+    width: 33.33%;
+
+}
+.phone{
+    width: 33.33%;
+
+}
+.email{
+    width: 33.33%;
+}
+.media{
+    text-align: center;
+    padding: 0px;
 }

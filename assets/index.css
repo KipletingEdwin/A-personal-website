@@ -30,7 +30,7 @@ header ul a:hover{
     background-color: rgb(180, 77, 180);  
 }
 .content{
-    height: 350px;
+    height: 500px;
     display: flex;
 }
 .text{
@@ -59,7 +59,7 @@ header ul a:hover{
     background-color: white;
 }
 .pic img{
-    height: 350px;
+    height: 500px;
 }
 #social{
     background-color: orange;

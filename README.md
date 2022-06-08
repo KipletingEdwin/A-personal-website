@@ -18,6 +18,12 @@ This project is about my portfolio.Its a description about myself,my career as a
 
 -JAVASCRIPT - validate the homepage.
 
+##Requirements
+
+Access to a computer or any other garget
+
+Access to Stable internet.
+
 
 
 ##Installation Process

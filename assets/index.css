@@ -67,3 +67,9 @@ header ul a:hover{
     text-align: center;
     padding: 20px;
 }
+@media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    .menu, .main, .right {
+      width: 100%;
+    }
+}

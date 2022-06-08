@@ -3,7 +3,6 @@
     margin: 0px;
 }
 header{
-    background-color: green;
     height: 80px;
     padding: 20px;
 }
@@ -11,7 +10,6 @@ header p{
     font-family: 'Satisfy',sans-serif;
 }
 .me{
-    background-color: orangered;
     height: 300px;
     padding: 20px;
     width: 60%;

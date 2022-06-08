@@ -2,6 +2,8 @@
 
 ##Project Description
 
+Screenshot from 2022-06-08 13-41-20.png
+
 This project is about my portfolio.Its a description about myself,my career as a Software Developer and my ambitions.Some of the challenges faced when implementing my projest was the use of CSS as I am still new to it.I hope to continue learning more about Javascript and implement  new terms that i would have learned.
 
 
@@ -20,7 +22,7 @@ This project is about my portfolio.Its a description about myself,my career as a
 
 ##Installation Process
 
--Clone to thir repo : git clone https://kipletingedwin.github.io/A-personal-website/
+-Clone to this repo : git clone https://kipletingedwin.github.io/A-personal-website/
 
 -Unzip the downloaded files in a folder of choice.
 

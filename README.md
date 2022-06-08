@@ -2,7 +2,8 @@
 
 ##Project Description
 
-Screenshot from 2022-06-08 13-41-20.png
+![Screenshot from 2022-06-08 13-41-20](https://user-images.githubusercontent.com/104434473/172700674-26d7b346-77f4-48e6-a6bd-980e0d73492c.png)
+
 
 This project is about my portfolio.Its a description about myself,my career as a Software Developer and my ambitions.Some of the challenges faced when implementing my projest was the use of CSS as I am still new to it.I hope to continue learning more about Javascript and implement  new terms that i would have learned.
 
@@ -11,14 +12,15 @@ This project is about my portfolio.Its a description about myself,my career as a
 ##Technologies Used
 
 
-
 -HTML - which was used to develope the structure off the pages.
 
 -CSS - which was used to style the User Interface.
 
 -JAVASCRIPT - validate the homepage.
 
-##Requirements
+
+
+##Requirements 
 
 Access to a computer or any other garget
 
@@ -38,7 +40,9 @@ Access to Stable internet.
 
 ##Live Link
 
--[Click this link to view the live application]  (https://kipletingedwin.github.io/A-personal-website/)
+-[Click this link to view the live application] 
+
+(https://kipletingedwin.github.io/A-personal-website/)
 
 
 ##LICENSE

@@ -3,12 +3,15 @@
     margin: 0px;
     background-color: rgba(122, 79, 48, 0.822);;
 }
+header{
+    height: 200px;
+}
 header h1{
     text-align: center;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 .con{
-    height: 250px;
+    height: 300px;
     display: flex;
     margin-top: 20px;
     text-align: center;
@@ -18,14 +21,17 @@ header h1{
 }
 .address{
     width: 33.33%;
+    padding: 20px;
 
 }
 .phone{
     width: 33.33%;
+    padding: 20px;
 
 }
 .email{
     width: 33.33%;
+    padding: 10px;
 }
 .media{
     text-align: center;

@@ -31,7 +31,7 @@ header ul a:hover{
     background-color: black;  
 }
 .content{
-    height: 500px;
+    height: 400px;
     display: flex;
 }
 .text{
@@ -68,7 +68,7 @@ header ul a:hover{
     border: none;
 }
 .pic img{
-    height: 500px;
+    height: 400px;
 }
 #social{
     background-color: orange;
@@ -76,6 +76,24 @@ header ul a:hover{
     text-align: center;
     padding: 20px;
 }
+.comp{
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    font-size:x-large;
+}
+
+.comp h3{
+    padding: 10px;
+    margin: 10px;
+}
+
+.comp img{
+    display: inline-block;
+    height: 40%;
+    
+}
+
 @media only screen and (max-width:500px) {
     /* For mobile phones: */
     .menu, .main, .right {

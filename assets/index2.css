@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    background-color: rgba(122, 79, 48, 0.822);;
 }
 header{
     height: 80px;
@@ -9,8 +10,19 @@ header{
 header p{
     font-family: 'Satisfy',sans-serif;
 }
+.two{
+    width: 100%;
+    display: flex;
+}
 .me{
-    height: 300px;
+    height: 500px;
     padding: 20px;
-    width: 60%;
+    width: 40%;
+}
+.foto{
+    float: right;
+    width: 50%;
+}
+.foto img{
+    height: 500px;
 }

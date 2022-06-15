@@ -1,0 +1,20 @@
+*{
+    padding: 10px;
+    margin: 10px;
+}
+
+header{
+    background-color: yellow;
+    text-align: center;
+    height: 120px;
+}
+
+.lang{
+    background-color: green;
+    height: 550px;
+    display: flex;
+}
+.lang img{
+    height: 200px;
+    background-color: green;
+}
